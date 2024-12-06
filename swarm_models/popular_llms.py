@@ -1,6 +1,4 @@
-from langchain_community.chat_models.azure_openai import (
-    AzureChatOpenAI,
-)
+from langchain_community.chat_models.azure_openai import (    AzureChatOpenAI,)
 from langchain_community.chat_models.openai import (
     ChatOpenAI as OpenAIChat,
 )

@@ -3,6 +3,6 @@
 #diffusers
 loguru 
 pydantic
-#langchain-community=="0.0.29"
+langchain-community=="0.0.29"
 #together
 litellm
